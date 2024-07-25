@@ -1,6 +1,6 @@
 # Data Structures in Python
 
-This repository contains implementations of various data structures in Python, aimed at helping you understand them better *-*
+This repository contains implementations of various data structures in Python, aimed at helping you understand them better.
 
 ## Table of Contents
 - [Data Structures](#data-structures)
@@ -17,7 +17,7 @@ Here are the data structures included in this repository:
 - [X] Singly Linked List Stack
 - [X] Queue Array
 - [X] Singly Linked List Queue
-- [ ] Singly Linked List
+- [X] Singly Linked List
 - [ ] Doubly Linked List
 - [ ] Circular Linked List
 
