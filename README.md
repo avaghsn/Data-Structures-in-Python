@@ -14,18 +14,18 @@ Here are the data structures included in this repository:
 - [X] Array
 - [X] Dynamic Array
 - [X] Array Stack
-- [X] Singly Linked List Stack
-- [X] Queue Array
-- [X] Singly Linked List Queue
+- [X] Singly Linked List Stack (sll_stack)
+- [X] Circular Queue 
+- [X] Singly Linked List Queue (sll_queue)
 - [X] Singly Linked List
-- [ ] Doubly Linked List
-- [ ] Circular Linked List
+- [X] Doubly Linked List
+- [X] Circular Linked List
 
 ### Tree Data Structures
 - [ ] Binary Tree
 - [ ] Binary Search Tree
 - [ ] N_ary Tree (Generic Tree)
-- [ ] Trie
+- [X] Trie
 - [ ] AVL Tree
 - [ ] B-Tree
 
@@ -34,8 +34,8 @@ Here are the data structures included in this repository:
 - [ ] Min Heap
       
 ### Hash-based Data Structures
-- [ ] Hash Table
-- [ ] Dynamic Hash Table
+- [X] Hash Table
+- [X] Dynamic Hash Table
 
 ## Installation
 
