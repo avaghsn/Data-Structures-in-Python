@@ -91,3 +91,11 @@ class DynamicArray:
         self.array = Array(self.size)
         self.useful_data = 0
 
+    def pop(self):
+        if self.useful_data == 0:
+            raise IndexError("pop from empty array")
+        item = self.array[self.useful_data - 1]
+        self.array[self.useful_data - 1] = None
+        self.useful_data -= 1
+        return item
+
