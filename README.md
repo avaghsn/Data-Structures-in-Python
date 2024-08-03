@@ -30,8 +30,8 @@ Here are the data structures included in this repository:
 - [ ] B-Tree
 
 ### Heap Data Structures
-- [ ] Max Heap
-- [ ] Min Heap
+- [X] Max Heap
+- [X] Min Heap
       
 ### Hash-based Data Structures
 - [X] Hash Table
