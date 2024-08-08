@@ -23,8 +23,8 @@ Here are the data structures included in this repository:
 
 ### Tree Data Structures
 - [ ] Binary Tree
-- [ ] Binary Search Tree
-- [X] N_ary Tree (Generic Tree)
+- [X] Binary Search Tree
+- [X] Generic Tree
 - [X] Trie
 - [ ] AVL Tree
 - [ ] B-Tree
